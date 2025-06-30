@@ -1,4 +1,3 @@
-import Clock from "@/components/ui/date";
 import Hero from "@/components/ui/hero";
 import * as motion from "motion/react-client";
 
