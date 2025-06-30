@@ -19,7 +19,7 @@ export default function Home() {
     
        <div className="flex lg:justify-between mx-15 p-5 border-t-3 justify-center pb-10">
        <span className=" hidden lg:font-lg lg:font-semibold">Made by Shadow</span>
-       <span className="border-b-1 lg:ml-auto ">Peace out.</span>
+       <span className="border-b-1 lg:ml-auto font-bold ">Peace out.</span>
        </div>
      </motion.div>
   
